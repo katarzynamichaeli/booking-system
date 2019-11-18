@@ -1,7 +1,7 @@
 Requirements
 ------------
 Java 1.8+
-Maven 2
+Maven
 Tomcat 9.0
 
 How to build application
