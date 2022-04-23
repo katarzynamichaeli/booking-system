@@ -35,7 +35,7 @@
   </build>
   
   <properties>
-		<spring.framework>4.3.0.RELEASE</spring.framework>
+		<spring.framework>5.3.19</spring.framework>
   </properties>
   
   <dependencies>
